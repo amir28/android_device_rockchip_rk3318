@@ -1,6 +1,7 @@
 os: linux
-dist: xenial
+dist: focal
 sudo: required
+compiler: gcc
 git:
   depth: 3
 addons:
